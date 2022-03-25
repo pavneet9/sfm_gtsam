@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../results/lib/libsfm_pipeline.a  CMakeFiles/sfm_pipeline.dir/sfmpipeline.cpp.o
+/usr/bin/ranlib ../../../results/lib/libsfm_pipeline.a

@@ -1,0 +1,11 @@
+/home/pavneet/C-tuorials/openCV/StructureFromMotion_gtsam/build/CMakeFiles/rebuild_cache.dir
+/home/pavneet/C-tuorials/openCV/StructureFromMotion_gtsam/build/CMakeFiles/edit_cache.dir
+/home/pavneet/C-tuorials/openCV/StructureFromMotion_gtsam/build/src/CMakeFiles/rebuild_cache.dir
+/home/pavneet/C-tuorials/openCV/StructureFromMotion_gtsam/build/src/CMakeFiles/edit_cache.dir
+/home/pavneet/C-tuorials/openCV/StructureFromMotion_gtsam/build/src/apps/CMakeFiles/rebuild_cache.dir
+/home/pavneet/C-tuorials/openCV/StructureFromMotion_gtsam/build/src/apps/CMakeFiles/edit_cache.dir
+/home/pavneet/C-tuorials/openCV/StructureFromMotion_gtsam/build/src/apps/CMakeFiles/main.dir
+/home/pavneet/C-tuorials/openCV/StructureFromMotion_gtsam/build/src/lib/CMakeFiles/edit_cache.dir
+/home/pavneet/C-tuorials/openCV/StructureFromMotion_gtsam/build/src/lib/CMakeFiles/visualizer.dir
+/home/pavneet/C-tuorials/openCV/StructureFromMotion_gtsam/build/src/lib/CMakeFiles/rebuild_cache.dir
+/home/pavneet/C-tuorials/openCV/StructureFromMotion_gtsam/build/src/lib/CMakeFiles/sfm_pipeline.dir

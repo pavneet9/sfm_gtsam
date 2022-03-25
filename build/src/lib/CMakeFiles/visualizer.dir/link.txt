@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../results/lib/libvisualizer.a  CMakeFiles/visualizer.dir/visualizer_pcl.cpp.o
+/usr/bin/ranlib ../../../results/lib/libvisualizer.a
